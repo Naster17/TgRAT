@@ -1,3 +1,10 @@
 C:\Users\nekjk\Documents\CS\TgRAT\TgRAT\obj\Debug\TgRAT.csproj.AssemblyReference.cache
 C:\Users\nekjk\Documents\CS\TgRAT\TgRAT\obj\Debug\TgRAT.csproj.SuggestedBindingRedirects.cache
 C:\Users\nekjk\Documents\CS\TgRAT\TgRAT\obj\Debug\TgRAT.csproj.CoreCompileInputs.cache
+C:\Users\nekjk\Documents\CS\TgRAT\TgRAT\bin\Debug\TgRAT.exe.config
+C:\Users\nekjk\Documents\CS\TgRAT\TgRAT\bin\Debug\TgRAT.exe
+C:\Users\nekjk\Documents\CS\TgRAT\TgRAT\bin\Debug\TgRAT.pdb
+C:\Users\nekjk\Documents\CS\TgRAT\TgRAT\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\nekjk\Documents\CS\TgRAT\TgRAT\obj\Debug\TgRAT.csproj.CopyComplete
+C:\Users\nekjk\Documents\CS\TgRAT\TgRAT\obj\Debug\TgRAT.exe
+C:\Users\nekjk\Documents\CS\TgRAT\TgRAT\obj\Debug\TgRAT.pdb
