@@ -1,0 +1,3 @@
+C:\Users\nekjk\Documents\CS\TgRAT\TgRAT\obj\Debug\TgRAT.csproj.AssemblyReference.cache
+C:\Users\nekjk\Documents\CS\TgRAT\TgRAT\obj\Debug\TgRAT.csproj.SuggestedBindingRedirects.cache
+C:\Users\nekjk\Documents\CS\TgRAT\TgRAT\obj\Debug\TgRAT.csproj.CoreCompileInputs.cache
